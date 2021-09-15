@@ -1,0 +1,4 @@
+importfilelist
+{
+	"file"	"blastdoor01_is_unused.vmt"
+}
