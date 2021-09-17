@@ -1,0 +1,8 @@
+importfilelist
+{
+	"file"	"materials\models\kingpommes\starwars\misc\misc_panel_1_red.vmt"
+	"file"	"materials\models\kingpommes\starwars\misc\misc_panel_1_green.vmt"
+	"file"	"materials\models\kingpommes\starwars\misc\misc_panel_1_alt_red.vmt"
+	"file"	"materials\models\kingpommes\starwars\misc\misc_panel_1_alt_green.vmt"
+	"file"	"materials\models\kingpommes\starwars\misc\misc_panel_1_alt_off.vmt"
+}
