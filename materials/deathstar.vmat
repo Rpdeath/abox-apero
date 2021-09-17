@@ -7,7 +7,7 @@ Layer0
 	//---- Color ----
 	g_flModelTintAmount "1.000"
 	g_vColorTint "[1.000000 1.000000 1.000000 0.000000]"
-	TextureColor "materials/gmod_export/ds_surface.png"
+	TextureColor "materials/ds_surface.png"
 
 	//---- Fade ----
 	g_flFadeExponent "1.000"
@@ -23,7 +23,7 @@ Layer0
 	g_flMetalness "0.000"
 
 	//---- Normal ----
-	TextureNormal "materials/gmod_export/ds_surface_normal.png"
+	TextureNormal "materials/ds_surface_normal.png"
 
 	//---- Roughness ----
 	TextureRoughness "materials/default/default_rough.tga"
@@ -32,6 +32,6 @@ Layer0
 	g_nScaleTexCoordUByModelScaleAxis "1"
 	g_nScaleTexCoordVByModelScaleAxis "1"
 	g_vTexCoordOffset "[0.000 0.000]"
-	g_vTexCoordScale "[0.05 0.05]"
+	g_vTexCoordScale "[0.500 0.500]"
 	g_vTexCoordScrollSpeed "[0.000 0.000]"
 }

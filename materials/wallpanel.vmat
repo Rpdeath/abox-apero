@@ -4,16 +4,10 @@ Layer0
 {
 	shader "vr_simple.vfx"
 
-	//---- PBR ----
-	F_METALNESS_TEXTURE 1
-
-	//---- Ambient Occlusion ----
-	TextureAmbientOcclusion "materials/default/default_ao.tga"
-
 	//---- Color ----
 	g_flModelTintAmount "1.000"
 	g_vColorTint "[1.000000 1.000000 1.000000 0.000000]"
-	TextureColor "materials/prefabv3_wallpanels_basecolor.png"
+	TextureColor "materials/PrefabV3_WallPanels_BaseColor.png"
 
 	//---- Fade ----
 	g_flFadeExponent "1.000"
@@ -26,13 +20,13 @@ Layer0
 	g_flDirectionalLightmapStrength "1.000"
 
 	//---- Metalness ----
-	TextureMetalness "materials/prefabv3_wallpanels_metallic.png"
+	g_flMetalness "0.000"
 
 	//---- Normal ----
-	TextureNormal "materials/prefabv3_wallpanels_normal.png"
+	TextureNormal "materials/default/default_normal.tga"
 
 	//---- Roughness ----
-	TextureRoughness "materials/prefabv3_wallpanels_roughness.png/"
+	TextureRoughness "materials/default/default_rough.tga"
 
 	//---- Texture Coordinates ----
 	g_nScaleTexCoordUByModelScaleAxis "0"
