@@ -18,13 +18,13 @@ Layer0
 	TextureColor "materials/prefabv3_smalldoor&lights_basecolor.png"
 
 	//---- Fade ----
-	g_flFadeExponent "1.000"
+	g_flFadeExponent "7.450"
 
 	//---- Fog ----
 	g_bFogEnabled "1"
 
 	//---- Lighting ----
-	g_flDirectionalLightmapMinZ "0.050"
+	g_flDirectionalLightmapMinZ "0.178"
 	g_flDirectionalLightmapStrength "1.000"
 
 	//---- Metalness ----
@@ -38,7 +38,7 @@ Layer0
 
 	//---- Self Illum ----
 	g_flSelfIllumAlbedoFactor "1.000"
-	g_flSelfIllumBrightness "0.000"
+	g_flSelfIllumBrightness "1.000"
 	g_flSelfIllumScale "1.000"
 	g_vSelfIllumScrollSpeed "[0.000 0.000]"
 	g_vSelfIllumTint "[1.000000 1.000000 1.000000 0.000000]"
